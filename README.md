@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning Cpp and Fornt-End Technologies
 - 💞️ I’m looking to collaborate on Web Devlopment Projects
 - 📫 How to reach me https://in.linkedin.com/in/shahroz-raja
-- or
-- https://github.com/ShahrozRaja/ShahrozRaja
 - ⚡ Fun fact: I am an IT major
 
 <!---
